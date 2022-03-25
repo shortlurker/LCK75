@@ -1,6 +1,6 @@
 # LCK75 SL Mod
 
-This is a modification of <a href="https://github.com/lyso1/LCK75">Lysol's LCK75</a>. A 75% through-hole keyboard originally designed by <a href="https://github.com/lyso1">Lysol</a>.
+This is a modification of Lysol's <a href="https://github.com/lyso1/LCK75">LCK75 Rev1</a>. A 75% through-hole keyboard originally designed by <a href="https://github.com/lyso1">Lysol</a>.
 
 #### LCK75 main PCB changes:
 
@@ -26,6 +26,7 @@ This is a modification of <a href="https://github.com/lyso1/LCK75">Lysol's LCK75
 
 - <a href="https://octopart.com/bom-tool/kmsRsySl">BOM</a> of the parts used in the build.
 - If you already own a LCK75 then all you need is the main PCB.
+- Use QMK/VIA firmware for the Rev1 LCK75. Rev2 adds another column to the key matrix.
 - The Kailh hotswap sockets may add bit of additional gap between the main PCB and the bottom PCB depending on the density of the foam.
 - Existing cases made for the original LCK75 will not work with this PCB because of the repositioned USB-C connector. I am not responsible for any damages if you attempt to modify an existing case.
 
