@@ -14,4 +14,4 @@ An attempt at a top mountish case. The pictures of the completed keyboard with t
 - Holes under the third row (middle) are too close to the keyswitch and depending on the style of screw used the screw head can block the keyswitch from being quickly hotswappable.
 - There might be some issues with holes not lining up with the PCB as the switch plate and main PCB dimensions are not identical. Lining them up prior to creating the case pieces was done as best as I could.
 
-![LCK75_SL_trim_case_CAD](https://raw.githubusercontent.com/shortlurker/LCK75_SL/SL_mod/LCK75%20Images/LCK75_SL_trim_case_CAD)
+![LCK75_SL_trim_case_CAD](https://raw.githubusercontent.com/shortlurker/LCK75_SL/master/LCK75%20Images/LCK75_SL_trim_case_CAD.jpg)
