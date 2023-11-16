@@ -26,7 +26,7 @@ This is a modification of Lysol's <a href="https://github.com/lyso1/LCK75">LCK75
 
 - <a href="https://octopart.com/bom-tool/kmsRsySl">BOM</a> of the parts used in the build.
 - If you already own a LCK75 then all you need is the main PCB.
-- Use QMK/VIA firmware for the Rev1 LCK75. Rev2 adds another column to the key matrix.
+- Works with up to date QMK/VIA LCK75 FW. If porting to VIAL one will need to increase the total number of columns by one in vial.json as a column matrix number is skipped in the QMK FW. 
 - The Kailh hotswap sockets may add bit of additional gap between the main PCB and the bottom PCB depending on the density of the foam.
 - Existing cases made for the original LCK75 will not work with this PCB because of the repositioned USB-C connector. I am not responsible for any damages if you attempt to modify an existing case.
 
